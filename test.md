@@ -5,4 +5,4 @@ lalala
 
 hahahhaha
 
-[blog/some-blog-1]]
+[[blog/some-blog-1]]
