@@ -4,3 +4,5 @@ YAY!!! 🚀
 lalala
 
 hahahhaha
+
+[[some-blog-1]]
