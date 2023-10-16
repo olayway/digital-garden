@@ -1,6 +1,6 @@
 # Blogs
 
-![Og Image](https://github.com/olayway/digital-garden/blob/main/assets/og-image.png)
+![Og Image](https://olayway.github.io/digital-garden/assets/og-image.png)
 
 [[some-blog-1]]
 [[some-blog-2]]
