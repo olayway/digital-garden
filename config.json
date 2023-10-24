@@ -1,0 +1,15 @@
+{
+  "title": "Joe's Knowledge Garden",
+  "description": "Welcome to Joe's Knowledge Garden!",
+  "logo": "/logo.png",
+  "navLinks": [
+    { "href": "/blog", "name": "Blog" }
+  ],
+  "theme": {
+    "default": "dark"
+  },
+  "social": [
+    { "label": "github", "href": "#" },
+    { "label": "discord", "href": "#" }
+  ]
+}
