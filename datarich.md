@@ -5,7 +5,7 @@ date: "2023-11-30"
 layout: blog
 ---
 
-# My First Data-Rich Blog Post
+## Welcome to My First Data-Rich Blog Post
 
 This is my first blog post. I'm so excited to try publishing it with DataHub!
 
