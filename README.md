@@ -6,20 +6,20 @@ title: My Musings & Memories 🌷🍀🪷
 
 ## Recent Posts
 
-- [[/blog/life-lessons-learned|Life Lessons Learned]]
-- [[/blog/travel-thailand#Bangkok at Night|Travel to Thailand]]
+- [[/life-lessons-learned|Life Lessons Learned]]
+- [[/travel-thailand#Bangkok at Night|Travel to Thailand]]
 - [[/blog/javascript-tips|Let's Talk JavaScript]]
 
 ## Featured Content
 
-> [!info] Don't forget to check out my most popular article:
+> [!info] Don't forget to check:
 > [[/blog/chasing-auroras-norway|Chasing Auroras in Norway]]
 
 
 ---
 ### Photo of the Week
 
-![Mountain View](https://images.unsplash.com/photo-1526336024174-e58f5cdd8e13)
+![[cat.jpg]]
 
 ---
 ### Keep in Touch!
