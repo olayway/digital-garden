@@ -19,7 +19,7 @@ title: My Musings & Memories 🌷🍀🪷
 ---
 ### Photo of the Week
 
-![[cat.jpg]]
+![[68747470733a2f2f696d616765732e756e73706c6173682e636f6d2f70686f746f2d313532363333363032343137342d653538663563646438653133.jpg]]
 
 ---
 ### Keep in Touch!
