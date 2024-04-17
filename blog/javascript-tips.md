@@ -1,5 +1,6 @@
 ---
 title: Let's Talk JavaScript
+date: 2024-04-17
 ---
 
 # JavaScript: More Than Just Syntax
