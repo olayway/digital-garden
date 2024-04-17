@@ -23,7 +23,7 @@ We have chosen to share it more widely for a few reasons. First, we think that o
 
 Finally, we emphasize that this is but one of many ways to understand our current context and how to respond to it. We would very much like to hear from others who feel alignment or tension with what we have written. You can reach us via various channels, the best being [https://lifeitself.org/contact/](https://lifeitself.org/contact/).
 
-## **Summary**
+## Summary
 
 Our key theses are:
 
