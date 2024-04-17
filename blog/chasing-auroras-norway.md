@@ -1,6 +1,7 @@
 ---
 title: Chasing Auroras in Norway
 description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mattis dolor urna, et vehicula odio dignissim at. Nullam quis semper enim. Nullam sagittis massa et urna porttitor, vitae rutrum tortor auctor. Etiam eu commodo velit. Curabitur accumsan arcu felis. Donec ac lobortis nisi. Nullam mi odio, viverra quis ante in."
+authors: [Ola Rubaj]
 ---
 # Chasing Auroras in Norway
 
