@@ -1,6 +1,6 @@
 ---
 title: Cultivating an Emerging Paradigm
-created: 2022-02-01
+date: 2022-02-01
 categories:
   - life-itself
   - our-philosophy
