@@ -27,6 +27,38 @@ Join me on a mesmerizing journey beneath the Arctic skies, where nature's most e
 Tip: Use a tripod and long exposure for clear night sky photography.
 ```
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus mauris mauris, pharetra ut massa quis, laoreet feugiat libero. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut ut porta ante. Sed porta ipsum eget mattis tristique. Morbi id nulla rhoncus, ultrices nisl ac, hendrerit tellus. Donec eget metus placerat, ultricies eros ac, elementum nunc. Aenean sapien lorem, imperdiet quis elit sed, dapibus efficitur tortor. Cras viverra odio in tortor feugiat ornare. Etiam ligula lorem, tempor eget massa sit amet, auctor mollis turpis. Pellentesque quis nisi massa. Suspendisse potenti. Integer pellentesque ultricies leo, nec volutpat ex dapibus et. Integer quam ligula, aliquam eu ipsum vel, suscipit volutpat erat. Nulla facilisi.
+
+<Map
+  center={{
+    latitude: 45,
+    longitude: 0
+  }}
+  layers={[
+    {
+      colorScale: {
+        ending: '#00ff00',
+        starting: '#ff0000'
+      },
+      data: {
+        url: 'https://d2ad6b4ur7yvpq.cloudfront.net/naturalearth-3.3.0/ne_10m_geography_marine_polys.geojson'
+      },
+      name: 'Polygons',
+      tooltip: {
+        propNames: [
+          'name'
+        ]
+      }
+    }
+  ]}
+  title="Seas and Oceans Map"
+  zoom={2}
+/>
+
+Maecenas feugiat leo sagittis lectus ultrices volutpat. Fusce venenatis ultricies tristique. Sed mattis augue massa, elementum imperdiet leo luctus sit amet. Curabitur sed libero molestie, commodo lacus sed, malesuada velit. Nam tristique sit amet risus ac placerat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum finibus eu massa et bibendum. Sed posuere et augue at venenatis. Proin vitae odio in dolor iaculis commodo. Quisque varius nunc nisl, sit amet vestibulum metus tincidunt in. Sed purus libero, fringilla ut ligula ut, sodales egestas tortor.
+
+
+
 ### Ethereal Moments
 
 ```markdown
