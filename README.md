@@ -4,8 +4,6 @@ description: "Welcome to my personal corner of the web, where I'll be sharing my
 date: 2024-04-24
 ---
 
-
-
 ## Recent Posts
 
 - [[/life-lessons-learned|Life Lessons Learned]]
