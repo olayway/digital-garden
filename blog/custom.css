@@ -7,13 +7,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1, h4 {
-    color: #d30c7b
+    color: #d30c7b !important;
 }
 
 h2, h5 {
-    color: #ba5a31
+    color: #ba5a31 !important;
 }
 
 h3, h6 {
-    color: #508484
+    color: #508484 !important;
 }
