@@ -1,6 +1,6 @@
 ---
-title: My Musings & Memories 🌷🍀🪷🤘
-description: ""
+title: My Musings & Memories 🧘‍♀️🏄‍♀️🏔️
+date: 2024-04-24
 ---
 
 **Welcome to my personal corner of the web**, where I'll be sharing my thoughts, travel experiences, coding projects, and much more!
@@ -16,13 +16,14 @@ description: ""
 > [!info] Don't forget to check:
 > [[/blog/chasing-auroras-norway|Chasing Auroras in Norway]]
 
-
 ---
+
 ### Photo of the Week
 
-![[cat.jpeg]]
+![[cat.jpeg|400]]
 
 ---
+
 ### Keep in Touch!
 
 *Follow me on social media or drop a message. I'd love to hear from you!*
@@ -32,7 +33,8 @@ description: ""
 
 ---
 
-> [!tip] If you want to start your own blog, I've compiled a helpful guide: [[/blog/start-blogging|How to Start a Blog: From Zero to Hero]].
+> [!tip] If you want to start your own blog, I've compiled a helpful guide
+> [[/blog/start-blogging|How to Start a Blog: From Zero to Hero]]
 
 ---
 
