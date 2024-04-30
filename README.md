@@ -19,7 +19,7 @@ date: 2024-04-24
 
 ### Photo of the Week
 
-![[cat.jpeg|400]]
+![[auroras.jpeg]]
 
 ---
 
