@@ -5,6 +5,8 @@ title: Blog Home
 
 Join me as I explore the world, code, and the little things in life that make it wonderful.
 
+![[auroras.jpeg]]
+
 ---
 
 ## Featured Posts
