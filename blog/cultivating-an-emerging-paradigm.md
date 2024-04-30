@@ -15,6 +15,8 @@ _By Tomas Björkman and Rufus Pollock. Tomas Björkman is a social entrepreneur,
 
 _This piece is a result of a collaborative dialogue between Tomas Björkman ([Ekskäret Foundation](https://ekskaret.se/)) and Rufus Pollock ([Life Itself](https://lifeitself.org/)). We’d like to thank Theo Cox of Life Itself for his support in editing it._
 
+![[Blog-Feature-Images-27.jpg]]
+
 ## Introduction
 
 Through our discussions, we noticed our thinking and work has a very similar perspective on the approach to social transformation – one linking the inner and the outer, the personal and the collective. We drafted this mini-essay initially simply to set out concretely our shared views, approach and strategy.  
