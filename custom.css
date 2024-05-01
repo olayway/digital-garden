@@ -18,3 +18,19 @@ h2, h5 {
 h3, h6 {
     color: #508484 !important;
 }
+
+
+.hero {
+    background-color: #007BFF;
+    color: black;
+    padding: 20px;
+    text-align: center;
+}
+
+.hero-title {
+    margin: 0 0 10px 0;
+}
+
+.hero-description {
+    margin: 0;
+}
