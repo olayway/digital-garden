@@ -21,6 +21,9 @@ h3, h6 {
 
 
 .hero {
+    position: relative;
+    left: 0;
+    right: 0;
   background-color: #508484;
   height: 500px;
   display: flex;
