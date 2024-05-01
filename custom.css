@@ -35,6 +35,7 @@ h3, h6 {
 .hero-title {
   font-size: 4rem;
     color: #E35AA6 !important;
+    margin-bottom: 0px;
 }
 
 .hero-description {
