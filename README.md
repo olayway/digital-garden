@@ -1,7 +1,8 @@
 ---
 title: My Musings & Memories 🧘‍♀️🏄‍♀️🏔️
 description: "Welcome to my personal corner of the web, where I'll be sharing my thoughts, travel experiences, coding projects, and much more!"
-date: 2024-04-24
+date: 2024-04-24]
+layout: unstyled
 ---
 
 ## Recent Posts
