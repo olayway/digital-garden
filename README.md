@@ -1,8 +1,8 @@
----
-title: My Musings & Memories 🧘‍♀️🏄‍♀️🏔️
-description: "Welcome to my personal corner of the web, where I'll be sharing my thoughts, travel experiences, coding projects, and much more!"
-date: 2024-04-24
----
+<div class="hero">
+    <h1 class="hero-title">My Musings & Memories 🧘‍♀️🏄‍♀️🏔️</h1>
+    <p class="hero-description">Welcome to my personal corner of the web, where I'll be sharing my thoughts, travel experiences, coding projects, and much more!</p>
+    <a href="/blog" class="hero-button">See my blog</a>
+</div>
 
 ## Recent Posts
 
