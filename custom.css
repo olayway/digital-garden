@@ -31,7 +31,6 @@ h3, h6 {
   color: #fff;
   padding: 0 36px;
   margin: 0 calc(-max(50vw - 28rem + 1.5rem, 0px));
-  margin-top: -3rem;
 }
 
 .hero-title {
