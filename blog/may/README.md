@@ -8,3 +8,11 @@ LINK TEST
 [../README](../README)
 
 [../chasing-auroras-norway](../chasing-auroras-norway)
+
+[../](../)
+
+[..](..)
+
+[../../](../../)
+
+
