@@ -1,6 +1,14 @@
 ---
 title: Blog Home
 ---
+
+LINKS TEST
+
+[./chasing-auroras-norway](./chasing-auroras-norway)
+[chasing-auroras-norway](chasing-auroras-norway)
+[/./chasing-auroras-norway](/./chasing-auroras-norway)
+[../README](../README)
+
 # Welcome to My Blog
 
 Join me as I explore the world, code, and the little things in life that make it wonderful.
