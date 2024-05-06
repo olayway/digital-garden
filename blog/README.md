@@ -5,8 +5,11 @@ title: Blog Home
 LINKS TEST
 
 [./chasing-auroras-norway](./chasing-auroras-norway)
+
 [chasing-auroras-norway](chasing-auroras-norway)
+
 [/./chasing-auroras-norway](/./chasing-auroras-norway)
+
 [../README](../README)
 
 # Welcome to My Blog
