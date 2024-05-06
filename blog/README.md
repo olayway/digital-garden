@@ -8,7 +8,7 @@ LINKS TEST
 
 [chasing-auroras-norway](chasing-auroras-norway)
 
-[/./chasing-auroras-norway](/./chasing-auroras-norway)
+[blog/chasing-auroras-norway](blog/chasing-auroras-norway)
 
 [../README](../README)
 
