@@ -8,6 +8,8 @@ LINKS TEST
 
 [chasing-auroras-norway](chasing-auroras-norway)
 
+[[chasing-auroras-norway]] wiki
+
 [blog/chasing-auroras-norway](blog/chasing-auroras-norway)
 
 [../README](../README)
