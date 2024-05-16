@@ -1,15 +1,13 @@
 {
   "title": "Joe's Knowledge Garden",
   "description": "Welcome to Joe's Knowledge Garden!",
-  "logo": "/logo.png",
+  "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR68jWiXsqJUJ0gBaBoTEVgTD-rf_wp0Ae6J-SWAmga7Q&s",
   "navLinks": [
     { "href": "/blog", "name": "Blog" }
   ],
-  "theme": {
-    "default": "dark"
-  },
-  "social": [
-    { "label": "github", "href": "#" },
-    { "label": "discord", "href": "#" }
-  ]
+  "author": "Joe",
+  "navbarTitle": {
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR68jWiXsqJUJ0gBaBoTEVgTD-rf_wp0Ae6J-SWAmga7Q&s",
+    "text": "Joe"
+  }
 }
