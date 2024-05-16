@@ -8,5 +8,10 @@
   "navbarTitle": {
     "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1EL7DmAkM6fLWe0ejb1HUEwj9Tq4y69y0xjEwKPRLLg&s",
     "text": "Joe"
-  }
+  },
+  "author": {
+    "name": "Joeee",
+    "url": "https://joe.io/",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1EL7DmAkM6fLWe0ejb1HUEwj9Tq4y69y0xjEwKPRLLg&s"
+  },
 }
