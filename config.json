@@ -17,9 +17,5 @@
     { "href": "/about", "name": "About" }
   ],
   "footerLinks": [],
-  "social": [
-    { "href": "#", "label": "linkedin" },
-    { "href": "#", "label": "github" }
-  ],
   "showSidebar": false
 }
