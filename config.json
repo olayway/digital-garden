@@ -16,5 +16,5 @@
     "url": "https://jenny.io/",
     "logo": "./logo.jpeg"
   },
-  "showSidebar": true
+  "showSidebar": false
 }
