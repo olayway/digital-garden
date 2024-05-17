@@ -1,17 +1,19 @@
 {
-  "title": "Joe's Knowledge Garden",
-  "description": "Welcome to Joe's Knowledge Garden!",
+  "title": "Jenny's Knowledge Garden",
+  "description": "Welcome to Jenny's Knowledge Garden!",
   "logo": "./logo.jpeg",
   "navLinks": [
-    { "href": "/blog", "name": "Blog" }
+    { "href": "/blog", "name": "Blog" },
+    { "href": "/notes", "name": "Notes" },
+    { "href": "/about", "name": "About" }
   ],
   "navbarTitle": {
     "logo": "./logo.jpeg",
-    "text": "Joe"
+    "text": "Jenny"
   },
   "author": {
-    "name": "Joeee",
-    "url": "https://joe.io/",
+    "name": "Jenny",
+    "url": "https://jenny.io/",
     "logo": "./logo.jpeg"
   },
   "showSidebar": true
