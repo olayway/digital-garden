@@ -1,18 +1,18 @@
 {
   "title": "Joe's Knowledge Garden",
   "description": "Welcome to Joe's Knowledge Garden!",
-  "logo": "./falcon.jpeg",
+  "logo": "./logo.jpeg",
   "navLinks": [
     { "href": "/blog", "name": "Blog" }
   ],
   "navbarTitle": {
-    "logo": "./falcon.jpeg",
+    "logo": "./logo.jpeg",
     "text": "Joe"
   },
   "author": {
     "name": "Joeee",
     "url": "https://joe.io/",
-    "logo": "./falcon.jpeg"
+    "logo": "./logo.jpeg"
   },
   "showSidebar": true
 }
