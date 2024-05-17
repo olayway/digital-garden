@@ -22,5 +22,5 @@
     { "href": "/blog", "label": "github" },
     { "href": "/notes", "label": "linkedin" }
   ],
-  "showSidebar": false
+  "showSidebar": true
 }
