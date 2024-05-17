@@ -2,6 +2,7 @@
   "title": "Jenny's Knowledge Garden",
   "description": "Welcome to Jenny's Knowledge Garden!",
   "logo": "./logo.jpeg",
+  "version": "alpha",
   "navbarTitle": {
     "logo": "./logo.jpeg",
     "text": "Jenny"
