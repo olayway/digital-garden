@@ -1,5 +1,19 @@
 {
   "title": "Joe's Knowledge Garden",
   "description": "Welcome to my personal travel blog, where I share my experiences and travel tips.",
-  "logo": "./falcon.jpeg"
+  "logo": "./falcon.jpeg",
+   "navLinks": [
+  {
+   "href": "/blog",
+   "name": "Blog"
+  }, 
+  {
+   "href": "/about",
+   "name": "About"
+  }, 
+  {
+  "href": "https://twitter.com/datopian",
+  "name": "Follow me on twitter!"
+  }
+ ]
 }
