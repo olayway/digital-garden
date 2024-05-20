@@ -1,4 +1,5 @@
 {
   "title": "Joe's Knowledge Garden",
-  "description": "Welcome to my personal travel blog, where I share my experiences and travel tips."
+  "description": "Welcome to my personal travel blog, where I share my experiences and travel tips.",
+  "logo": "./logo.jpeg"
 }
