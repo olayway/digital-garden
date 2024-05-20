@@ -1,3 +1,26 @@
 {
+  "title": "Jenny's Knowledge Garden",
+  "description": "Welcome to Jenny's Knowledge Garden!",
+  "logo": "./logo.jpeg",
+  "version": "alpha",
+  "navbarTitle": {
+    "logo": "./logo.jpeg",
+    "text": "Jenny"
+  },
+  "author": {
+    "name": "Jenny",
+    "url": "https://jenny.io/",
+    "logo": "./logo.jpeg"
+  },
+  "navLinks": [
+    { "href": "/blog", "name": "Blog" },
+    { "href": "/notes", "name": "Notes" },
+    { "href": "/about", "name": "About" }
+  ],
+  "footerLinks": [],
+  "social": [
+    { "href": "/blog", "label": "github" },
+    { "href": "/notes", "label": "linkedin" }
+  ],
   "showSidebar": true
 }
