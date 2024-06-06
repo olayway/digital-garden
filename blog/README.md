@@ -2,6 +2,8 @@
 title: Blog Home
 ---
 
+AAA BBB CCC DDD EEE
+
 LINKS TEST
 
 [./chasing-auroras-norway](./chasing-auroras-norway)
