@@ -1,10 +1,6 @@
-# Welcome!
+# My Musings & Memories<br/>🧘‍♀️🏄‍♀️🏔️💃</h1>
 
-<div class="hero">
-    <h1 class="hero-title">My Musings & Memories<br/>🧘‍♀️🏄‍♀️🏔️💃</h1>
-    <p class="hero-description">Welcome to my personal corner of the web, where I'll be sharing my thoughts, travel experiences, coding projects, and much more!</p>
-    <a href="/blog" class="hero-button">See my blog!</a>
-</div>
+Welcome to my personal corner of the web, where I'll be sharing my thoughts, travel experiences, coding projects, and much more!
 
 [[may/README]]
 
