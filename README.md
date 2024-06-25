@@ -8,9 +8,6 @@
 
 [[may/README]]
 
-AAA BBB CCC DDD EEE fff aaa
-
-
 ## Recent Posts
 
 - [[/life-lessons-learned|Life Lessons Learned]]
